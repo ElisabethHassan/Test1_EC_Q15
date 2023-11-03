@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test1_EC_Q15</string>
+    <string name="number">Incoming Number Goes Here</string>
+    <string name="headline">Incoming Call!</string>
+</resources>
